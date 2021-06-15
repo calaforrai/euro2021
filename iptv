@@ -1,68 +1,7 @@
-#EXTINF:-1,BEIN SPORT MAX 1 4K
-http://ricoootv.xyz:8080/rico/rico/137
-#EXTINF:-1,BEIN SPORT MAX 2 4K
-http://ricoootv.xyz:8080/rico/rico/138
-#EXTINF:-1,BEIN SPORT MAX 3 4K
-http://ricoootv.xyz:8080/rico/rico/139
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-1,BEIN SPORT MAX 4 4K
 http://ricoootv.xyz:8080/rico/rico/140
-#EXTINF:-1,BEIN SPORT MAX 5 4K
-http://ricoootv.xyz:8080/rico/rico/141
-#EXTINF:-1,BEIN SPORT MAX 6 4K
-http://ricoootv.xyz:8080/rico/rico/142
-#EXTINF:-1,bein sport 1 fr
-http://ricoootv.xyz:8080/rico/rico/83
-#EXTINF:-1,bein sport 2 fr
-http://ricoootv.xyz:8080/rico/rico/84
-#EXTINF:-1,bein sport 3 fr
-http://ricoootv.xyz:8080/rico/rico/85
-#EXTINF:-1,bein sport max 4 fr
-http://ricoootv.xyz:8080/rico/rico/86
-#EXTINF:-1,bein sport max 5 fr
-http://ricoootv.xyz:8080/rico/rico/87
-#EXTINF:-1,bein sport max 6 fr
-http://ricoootv.xyz:8080/rico/rico/88
-#EXTINF:-1,bein sport max 7 sd
-http://ricoootv.xyz:8080/rico/rico/89
-#EXTINF:-1,beinsport sd news
-http://ricoootv.xyz:8080/rico/rico/90
-#EXTINF:-1,BEIN SPORT 1 HD PREMIUM
-http://ricoootv.xyz:8080/rico/rico/1
-#EXTINF:-1,BEIN SPORT 2 HD PREMIUM
-http://ricoootv.xyz:8080/rico/rico/2
-#EXTINF:-1,BEIN SPORT 3 HD PREMIUM
-http://ricoootv.xyz:8080/rico/rico/3
-#EXTINF:-1,BEIN SPORT 1 HD
-http://ricoootv.xyz:8080/rico/rico/4
-#EXTINF:-1,BEIN SPORT 2 HD
-http://ricoootv.xyz:8080/rico/rico/5
-#EXTINF:-1,BEIN SPORT 3 HD
-http://ricoootv.xyz:8080/rico/rico/6
-#EXTINF:-1,BEIN SPORT 5 HD
-http://ricoootv.xyz:8080/rico/rico/8
-#EXTINF:-1,BEIN SPORT 6 HD
-http://ricoootv.xyz:8080/rico/rico/9
-#EXTINF:-1,BEIN SPORT 7 HD
-http://ricoootv.xyz:8080/rico/rico/10
-#EXTINF:-1,BEIN SPORT 4 HD
-http://ricoootv.xyz:8080/rico/rico/7
-#EXTINF:-1,bein sport 1 sd
-http://ricoootv.xyz:8080/rico/rico/73
-#EXTINF:-1,bein sport 2 sd
-http://ricoootv.xyz:8080/rico/rico/74
-#EXTINF:-1,bein sport 3 sd
-http://ricoootv.xyz:8080/rico/rico/75
-#EXTINF:-1,bein sport 4 sd
-http://ricoootv.xyz:8080/rico/rico/76
-#EXTINF:-1,bein sport 5 sd
-http://ricoootv.xyz:8080/rico/rico/77
-#EXTINF:-1,bein sport 6 sd
-http://ricoootv.xyz:8080/rico/rico/78
-#EXTINF:-1,bein sport 7 sd
-http://ricoootv.xyz:8080/rico/rico/79
-#EXTINF:-1,bein sport 1 sd premium
-http://ricoootv.xyz:8080/rico/rico/80
-#EXTINF:-1,bein sport 2 sd premium
-http://ricoootv.xyz:8080/rico/rico/81
-#EXTINF:-1,bein sport 3 sd premium
-http://ricoootv.xyz:8080/rico/rico/82
+#EXT-X-ENDLIST
